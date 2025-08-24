@@ -1,4 +1,4 @@
-# main.py
+#  main.py
 
 import tkinter as tk
 from gui import App
