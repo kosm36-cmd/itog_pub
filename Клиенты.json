@@ -1,0 +1,37 @@
+[
+    {
+        "cid": "C1",
+        "name": "Иван Иванов",
+        "email": "ivan@mail.ru",
+        "phone": "+79991234567",
+        "address": "Москва"
+    },
+    {
+        "cid": "C2",
+        "name": "Петр Петров",
+        "email": "petr@mail.ru",
+        "phone": "+79997654321",
+        "address": "СПб"
+    },
+    {
+        "cid": "C3",
+        "name": "Аня Смирнова",
+        "email": "anna@mail.ru",
+        "phone": "+79998887766",
+        "address": "Новосибирск"
+    },
+    {
+        "cid": "C4",
+        "name": "Михаил К.",
+        "email": "michael@mail.ru",
+        "phone": "+79995554433",
+        "address": "Казань"
+    },
+    {
+        "cid": "C5",
+        "name": "Настя Иванова",
+        "email": "nasti@mail.ru",
+        "phone": "+79991112233",
+        "address": "Ростов"
+    }
+]

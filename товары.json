@@ -1,0 +1,62 @@
+[
+    {
+        "pid": "P1",
+        "name": "Шоколад",
+        "category": "Конфеты",
+        "price": 80
+    },
+    {
+        "pid": "P2",
+        "name": "Жвачка",
+        "category": "Жвачки",
+        "price": 20
+    },
+    {
+        "pid": "P3",
+        "name": "Леденцы",
+        "category": "Конфеты",
+        "price": 50
+    },
+    {
+        "pid": "P4",
+        "name": "Мармелад",
+        "category": "Конфеты",
+        "price": 70
+    },
+    {
+        "pid": "P5",
+        "name": "Печенье",
+        "category": "Снеки",
+        "price": 90
+    },
+    {
+        "pid": "P6",
+        "name": "Кофе",
+        "category": "Напитки",
+        "price": 150
+    },
+    {
+        "pid": "P7",
+        "name": "Чай",
+        "category": "Напитки",
+        "price": 120
+    },
+    {
+        "pid": "P8",
+        "name": "Газировка",
+        "category": "Напитки",
+        "price": 60
+    },
+    {
+        "pid": "P9",
+        "name": "Сухарики",
+        "category": "Снеки",
+        "price": 80
+    },
+    {
+        "pid": "P10",
+        "name": "Миндаль",
+        "category": "Орехи",
+        "price": 200
+    }
+]
